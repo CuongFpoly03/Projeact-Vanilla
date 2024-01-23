@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name_pr": "",
+      "image_pr": "",
+      "price_pr": "",
+      "quantity_pr": "",
+      "description_pr": "không hay hh"
+    },
+    {
+      "id": "2",
+      "name_pr": "GIày KSOS",
+      "image_pr": "https://picsum.photos/150/120",
+      "price_pr": 1222,
+      "quantity_pr": 1,
+      "description_pr": "đẹp lắm"
+    },
+    {
+      "id": "8292",
+      "name_pr": "admin",
+      "image_pr": "C:\\fakepath\\pr3.jpg",
+      "price_pr": "40000",
+      "quantity_pr": "1",
+      "description_pr": "không hay hh"
+    }
+  ]
+}
